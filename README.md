@@ -15,5 +15,4 @@ Instructions to run the project:
 3) To run the server: 
     - python manage.py runserver
    
-
-
+4) Open Browser and navigate to localhost:8000
